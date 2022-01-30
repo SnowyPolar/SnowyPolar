@@ -1,6 +1,6 @@
 # Hey! SnowyPolar here lol✨ 
-![](https://i.ibb.co/ZT3PY4Q/lolbanner.jpg)
-#
+![lolbanner](https://user-images.githubusercontent.com/69726434/151698235-7080e7eb-d518-4973-aa3c-d399cd80ee49.jpg)
+
 
 ## About me
 ```
