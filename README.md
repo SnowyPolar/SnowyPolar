@@ -1,16 +1,25 @@
-### Hi there 👋
+# Hey! SnowyPolar here lol✨ 
+![](https://i.ibb.co/ZT3PY4Q/lolbanner.jpg)
+#
 
-<!--
-**SnowyPolar/SnowyPolar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About me
+```
+A Self taught Js + Python developer.
 
-Here are some ideas to get you started:
+Also I am 16 + I still make "your mum" jokes... lol
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+and um I work for Blueue as his channel manager, seems reasonable?
+
+```
+#
+## Wanna contact me?
+```py
+Mail: snowypolarr@gmail.com
+
+Discord: SnowyPolar#4895
+
+```
+# 
+
+
+# ***Positivity without efforts is like a cherry without cake lol***
