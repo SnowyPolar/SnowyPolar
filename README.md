@@ -1,25 +1,26 @@
-# Hey! SnowyPolar here lol✨ 
-![lolbanner](https://user-images.githubusercontent.com/69726434/151698235-7080e7eb-d518-4973-aa3c-d399cd80ee49.jpg)
+# Greetings! Shashank Tomar here.
 
 
 ## About me
 ```
-A Self taught Js + Python developer.
+I'm a Computer Science student with a passion for building robust and reliable software. My journey in development has given me a strong foundation in a variety of languages, from system-level programming with Rust and C++ to object-oriented development in Java and Python.
 
-Also I am 16 + I still make "your mum" jokes... lol
+On the frontend, I enjoy bringing ideas to life with clean and modern designs, leveraging HTML5, CSS, Tailwind CSS, and JavaScript. I believe a good project is one that not only works well but also looks and feels great.
 
-and um I work for Blueue as his channel manager, seems reasonable?
+My commitment to quality extends to my work in QA/QC, where I focus on ensuring that every piece of code is solid and bug-free. I’m always looking to learn and collaborate on new projects. Feel free to check out my repos
 
 ```
 #
 ## Wanna contact me?
 ```py
-Mail: snowypolarr@gmail.com
+Mail: shashank030905@gmail.com
 
-Discord: SnowyPolar#4895
+Phone no: +91 9811806927
+
+Discord: snowypolar
 
 ```
 # 
 
 
-# ***Positivity without efforts is like a cherry without cake lol***
+# ***Change something that changes you.***
