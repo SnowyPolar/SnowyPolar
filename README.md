@@ -11,13 +11,13 @@ My commitment to quality extends to my work in QA/QC, where I focus on ensuring 
 
 ```
 #
-## Wanna contact me?
+## Want to contact me?
 ```py
-Mail: shashank030905@gmail.com
+Mail : shashank030905@gmail.com
 
-Phone no: +91 9811806927
+Phone No. : +91 9811806927
 
-Discord: snowypolar
+Discord : snowypolar
 
 ```
 # 
